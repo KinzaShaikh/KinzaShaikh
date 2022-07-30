@@ -15,14 +15,14 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/kinza-shaikh-0802a3217/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="kinza" height="30" width="40" /></a>
   <a href="https://kinzashaikh38@gmail.com" target="blank"><img align="center"
       src="https://img.icons8.com/color/48/000000/gmail-new.png"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
+      alt="kinza" height="30" width="40" /></a>
+ <a href="https://twitter.com/kinzaShaikh_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="kinza" height="30" width="40" /></a>
     <a href="https://gitlab.com/kinzashaikh" target="blank"><img align="center"
       src="https://img.icons8.com/color/48/000000/gitlab.png"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="kinza" height="30" width="40" /></a>
 </p>
