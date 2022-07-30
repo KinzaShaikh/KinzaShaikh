@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I am Kinza Shaikh</h1>
 
-<h3 align="center"> Software Engineer with a demonstrated history of working in the internet industry. My github will summarize my expertise. </h3>
+<h3 align="center"> Software Engineer with a demonstrated history of working in the IT industry. My github will summarize my expertise. </h3>
 
 
 <h1 align="center"> My Expertise are </h1>
