@@ -59,13 +59,8 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> 
 &nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)"
-      alt="c" width="40" height="40" /> </a>
-&nbsp;
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)"
-      alt="cplusplus" width="40" height="40" /> </a> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"
+      alt="postgresql" width="40" height="40" /> 
 &nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
@@ -79,6 +74,9 @@
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> 
+&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+      alt="git" width="40" height="40" />
    </p>
    <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=kinzaShaikh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
