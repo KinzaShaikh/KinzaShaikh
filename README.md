@@ -1,13 +1,13 @@
 <h1 align="center">Hi Geeks 👋, I am Kinza Shaikh</h1>
 
-<h3 align="center"> Software Engineer with a demonstrated history of working in the IT industry. My github will summarize my expertise. </h3>
+<h3 align="center"> Software Engineer with a demonstrated history of working in the IT industry, specializing in Full Stack development with a focus on Frontend and Quality Assurance. Dedicated to utilizing the latest technologies to create inventive solutions. Eager to collaborate on exciting projects. </h3>
 
 
 <h1 align="center"> My Expertise are </h1>
-<h3 align="center">MERN Stack | React Native | C++ | Java| C# .NET | HTML5 CSS3 JS JQuery| MUI Bootstrap Semantic-UI AntDesign | MongoDB/Mysql/PostgreSql | Git - Github - GitLab
+<h3 align="center">MERN Stack | Javascipt Typescript | React Native | HTML5 CSS3 JS JQuery| MUI Bootstrap Semantic-UI AntDesign | MongoDB/Mysql/PostgreSql | Git - Github - GitLab
 </h3>
 
-- 🔭 I’m currently working on  **NextJS and TypeScript**. 
+- 🔭 I’m currently working on  **NextJS**. 
 - 👯 I’m looking to collaborate on **ReactJS, NodeJS, NextJS and TypeScript**  
 ![Profile views](https://gpvc.arturio.dev/kinzaShaikh)  
 
