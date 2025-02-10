@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on  **NextJS**. 
 - 👯 I’m looking to collaborate on **ReactJS, NodeJS, NextJS and TypeScript**  
-![Profile views](https://gpvc.arturio.dev/kinzaShaikh)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
